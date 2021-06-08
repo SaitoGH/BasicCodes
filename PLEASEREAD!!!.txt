@@ -1,0 +1,2 @@
+Those who wants to try out my random codes, do paste the codes on repl.it and use it on that because
+for some reason the lua terminal would crash when used there :P
