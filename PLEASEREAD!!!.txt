@@ -1,2 +1,4 @@
 Those who wants to try out my random codes, do paste the codes on repl.it and use it on that because
 for some reason the lua terminal would crash when used there :P
+If Theres "LOVE2D" in the title be sure to download love framework first from love2d.org
+Other than that,All these codes are just basic codes that i make for fun  and free to use :)
