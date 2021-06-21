@@ -2,5 +2,5 @@ THE POLES DOESNT WORK WHY DOESN IT WORK other than that the game works fine
 
 
 Press WASD to move,
-Press Space to be invulnerable to the "lasers" duration is only for 2 seconds
+Press Space to be invulnerable to the "lasers" duration is only for 1.25 seconds
 Go ahead and have fun i guess
