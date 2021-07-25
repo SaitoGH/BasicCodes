@@ -2,8 +2,6 @@
 #include<time.h>
 #include <conio.h>
 
-#include <vector>
-using std::vector;
 
 //Game Properties
 bool isRunning;
